@@ -10,7 +10,7 @@ This exercise will help us practice the fundamental skill of programming: creati
 
 In this part you'll create a line drawing for a fellow student.
 
-Draw a simple picture. Make it a recognisable but try to use less than a dozen lines. You can draw your image on paper, or use a drawing program. You'll need to save or scan your image as a file that you can share. Send your file to the next student.
+Draw a simple picture. Make it a recognisable image, but try to use less than a dozen lines. You can draw your image on paper, or use a drawing program. You'll need to save or scan your image as a file that you can share. Send your file to the next student.
 
 In summary:
 
